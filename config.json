@@ -1,0 +1,13 @@
+{
+	"client": {
+		"host": "SSMR1.aternos.me",
+		"port": "60759",
+		"username": "alokjamsut"
+	},
+	"logLevel": ["error", "log", "debug"],
+	"action": {
+		"commands": ["forward", "back", "left", "right", "jump"],
+		"holdDuration": 5000,
+		"retryDelay": 15000
+	}
+}
