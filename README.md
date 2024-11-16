@@ -1,6 +1,6 @@
 ## requirements
 - tsx
-- nodejs
+- nodejs-18
 - pnpm
 - pm2
 
